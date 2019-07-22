@@ -8,5 +8,10 @@ namespace Kenshi
 {
     public class Class1
     {
+        public void yes()
+        {
+
+        }
+
     }
 }
